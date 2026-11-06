@@ -101,11 +101,11 @@ export function Navbar() {
               Sign In
             </Link>
             <Link
-              href="/get-started"
+              href="/sign-up"
               onClick={() => setIsOpen(false)}
               className={buttonStyle}
             >
-              Get Started
+              Sign Up 
             </Link>
           </div>
         </div>
